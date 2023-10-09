@@ -2,8 +2,6 @@
 
 ## Health Care and Fitness App
 
-![HealthoHolic Logo](https://your-image-url.com/healthoholic-logo.png)
-
 ## Overview
 
 The goal of this project is to develop the user interface (UI) of a health and fitness app. The application is designed to provide users with a smooth and intuitive experience, incorporating principles of Human-Computer Interaction (HCI). This includes user research, persona creation, wireframing, prototyping, and usability testing. Our aim is to create a visually appealing and useful app that helps users achieve their fitness goals.
