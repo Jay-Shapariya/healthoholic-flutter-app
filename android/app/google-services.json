@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "893175185079",
+    "project_id": "healthoholic",
+    "storage_bucket": "healthoholic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893175185079:android:391e8a7c2dc96c8b55d732",
+        "android_client_info": {
+          "package_name": "com.example.healthoholic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893175185079-9tsob3p7pnh292u0llqd69bg13pdi720.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthoholic",
+            "certificate_hash": "1c744781921f50cfcc190f9d02c17a3900a9b3b7"
+          }
+        },
+        {
+          "client_id": "893175185079-ncd6g0o4iben9hp00crfjh46k86u01ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV77a62vTRKqGOjNK8uaDTtVs2L1PzZ0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893175185079-ncd6g0o4iben9hp00crfjh46k86u01ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
