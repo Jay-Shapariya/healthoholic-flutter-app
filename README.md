@@ -44,7 +44,7 @@ Watch the app in action: [Demo Video](https://drive.google.com/file/d/1GBFJBevrF
 
 ## UI/UX App Repository
 
-Explore the code on GitHub: [HealthoHolic Flutter App](https://github.com/Jay-Shapariya/HCI_Project_HealthoHolic)
+Explore the code on GitHub: [HCI_Project_HealthoHolic](https://github.com/Jay-Shapariya/HCI_Project_HealthoHolic)
 
 ## Getting Started
 
